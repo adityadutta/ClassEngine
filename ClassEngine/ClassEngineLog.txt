@@ -1,0 +1,1 @@
+INFO: Engine created in: d:\humber\classengine\classengine\engine\core\coreengine.cpp on line: 52

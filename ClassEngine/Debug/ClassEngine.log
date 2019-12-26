@@ -1,0 +1,137 @@
+﻿  CollisionHandler.cpp
+d:\humber\classengine\classengine\engine\math\boundingbox.h(7): warning C4099: 'BoundingBox': type name first seen using 'class' now seen using 'struct'
+  d:\humber\classengine\classengine\engine\math\boundingbox.h(6): note: see declaration of 'BoundingBox'
+d:\humber\classengine\classengine\engine\math\ray.h(8): warning C4099: 'Ray': type name first seen using 'class' now seen using 'struct'
+  d:\humber\classengine\classengine\engine\math\ray.h(7): note: see declaration of 'Ray'
+  CollisionDetection.cpp
+d:\humber\classengine\classengine\engine\math\boundingbox.h(7): warning C4099: 'BoundingBox': type name first seen using 'class' now seen using 'struct'
+  d:\humber\classengine\classengine\engine\math\boundingbox.h(6): note: see declaration of 'BoundingBox'
+d:\humber\classengine\classengine\engine\math\ray.h(8): warning C4099: 'Ray': type name first seen using 'class' now seen using 'struct'
+  d:\humber\classengine\classengine\engine\math\ray.h(7): note: see declaration of 'Ray'
+  Camera.cpp
+d:\humber\classengine\classengine\engine\math\boundingbox.h(7): warning C4099: 'BoundingBox': type name first seen using 'class' now seen using 'struct'
+  d:\humber\classengine\classengine\engine\math\boundingbox.h(6): note: see declaration of 'BoundingBox'
+d:\humber\classengine\classengine\engine\math\collisiondetection.h(7): warning C4099: 'BoundingBox': type name first seen using 'struct' now seen using 'class'
+  d:\humber\classengine\classengine\engine\math\boundingbox.h(6): note: see declaration of 'BoundingBox'
+d:\humber\classengine\classengine\engine\math\ray.h(8): warning C4099: 'Ray': type name first seen using 'class' now seen using 'struct'
+  d:\humber\classengine\classengine\engine\math\ray.h(7): note: see declaration of 'Ray'
+  Debug.cpp
+  CoreEngine.cpp
+d:\humber\classengine\classengine\engine\math\boundingbox.h(7): warning C4099: 'BoundingBox': type name first seen using 'class' now seen using 'struct'
+  d:\humber\classengine\classengine\engine\math\boundingbox.h(6): note: see declaration of 'BoundingBox'
+d:\humber\classengine\classengine\engine\math\collisiondetection.h(7): warning C4099: 'BoundingBox': type name first seen using 'struct' now seen using 'class'
+  d:\humber\classengine\classengine\engine\math\boundingbox.h(6): note: see declaration of 'BoundingBox'
+d:\humber\classengine\classengine\engine\math\ray.h(8): warning C4099: 'Ray': type name first seen using 'class' now seen using 'struct'
+  d:\humber\classengine\classengine\engine\math\ray.h(7): note: see declaration of 'Ray'
+  main.cpp
+d:\humber\classengine\classengine\engine\math\boundingbox.h(7): warning C4099: 'BoundingBox': type name first seen using 'class' now seen using 'struct'
+  d:\humber\classengine\classengine\engine\math\boundingbox.h(6): note: see declaration of 'BoundingBox'
+d:\humber\classengine\classengine\engine\math\collisiondetection.h(7): warning C4099: 'BoundingBox': type name first seen using 'struct' now seen using 'class'
+  d:\humber\classengine\classengine\engine\math\boundingbox.h(6): note: see declaration of 'BoundingBox'
+d:\humber\classengine\classengine\engine\math\ray.h(8): warning C4099: 'Ray': type name first seen using 'class' now seen using 'struct'
+  d:\humber\classengine\classengine\engine\math\ray.h(7): note: see declaration of 'Ray'
+  Window.cpp
+  Timer.cpp
+  GameObject.cpp
+d:\humber\classengine\classengine\engine\math\boundingbox.h(7): warning C4099: 'BoundingBox': type name first seen using 'class' now seen using 'struct'
+  d:\humber\classengine\classengine\engine\math\boundingbox.h(6): note: see declaration of 'BoundingBox'
+  EventListener.cpp
+d:\humber\classengine\classengine\engine\math\boundingbox.h(7): warning C4099: 'BoundingBox': type name first seen using 'class' now seen using 'struct'
+  d:\humber\classengine\classengine\engine\math\boundingbox.h(6): note: see declaration of 'BoundingBox'
+d:\humber\classengine\classengine\engine\math\collisiondetection.h(7): warning C4099: 'BoundingBox': type name first seen using 'struct' now seen using 'class'
+  d:\humber\classengine\classengine\engine\math\boundingbox.h(6): note: see declaration of 'BoundingBox'
+d:\humber\classengine\classengine\engine\math\ray.h(8): warning C4099: 'Ray': type name first seen using 'class' now seen using 'struct'
+  d:\humber\classengine\classengine\engine\math\ray.h(7): note: see declaration of 'Ray'
+  GameScene.cpp
+d:\humber\classengine\classengine\engine\math\boundingbox.h(7): warning C4099: 'BoundingBox': type name first seen using 'class' now seen using 'struct'
+  d:\humber\classengine\classengine\engine\math\boundingbox.h(6): note: see declaration of 'BoundingBox'
+d:\humber\classengine\classengine\engine\math\collisiondetection.h(7): warning C4099: 'BoundingBox': type name first seen using 'struct' now seen using 'class'
+  d:\humber\classengine\classengine\engine\math\boundingbox.h(6): note: see declaration of 'BoundingBox'
+d:\humber\classengine\classengine\engine\math\ray.h(8): warning C4099: 'Ray': type name first seen using 'class' now seen using 'struct'
+  d:\humber\classengine\classengine\engine\math\ray.h(7): note: see declaration of 'Ray'
+  Game0.cpp
+d:\humber\classengine\classengine\engine\math\boundingbox.h(7): warning C4099: 'BoundingBox': type name first seen using 'class' now seen using 'struct'
+  d:\humber\classengine\classengine\engine\math\boundingbox.h(6): note: see declaration of 'BoundingBox'
+d:\humber\classengine\classengine\engine\math\collisiondetection.h(7): warning C4099: 'BoundingBox': type name first seen using 'struct' now seen using 'class'
+  d:\humber\classengine\classengine\engine\math\boundingbox.h(6): note: see declaration of 'BoundingBox'
+d:\humber\classengine\classengine\engine\math\ray.h(8): warning C4099: 'Ray': type name first seen using 'class' now seen using 'struct'
+  d:\humber\classengine\classengine\engine\math\ray.h(7): note: see declaration of 'Ray'
+  StartScene.cpp
+d:\humber\classengine\classengine\engine\math\boundingbox.h(7): warning C4099: 'BoundingBox': type name first seen using 'class' now seen using 'struct'
+  d:\humber\classengine\classengine\engine\math\boundingbox.h(6): note: see declaration of 'BoundingBox'
+d:\humber\classengine\classengine\engine\math\collisiondetection.h(7): warning C4099: 'BoundingBox': type name first seen using 'struct' now seen using 'class'
+  d:\humber\classengine\classengine\engine\math\boundingbox.h(6): note: see declaration of 'BoundingBox'
+d:\humber\classengine\classengine\engine\math\ray.h(8): warning C4099: 'Ray': type name first seen using 'class' now seen using 'struct'
+  d:\humber\classengine\classengine\engine\math\ray.h(7): note: see declaration of 'Ray'
+  Mesh.cpp
+d:\humber\classengine\classengine\engine\rendering\3d\mesh.cpp(38): warning C4018: '<': signed/unsigned mismatch
+  Model.cpp
+d:\humber\classengine\classengine\engine\math\boundingbox.h(7): warning C4099: 'BoundingBox': type name first seen using 'class' now seen using 'struct'
+  d:\humber\classengine\classengine\engine\math\boundingbox.h(6): note: see declaration of 'BoundingBox'
+d:\humber\classengine\classengine\engine\rendering\3d\model.cpp(98): warning C4018: '<': signed/unsigned mismatch
+  ShaderHandler.cpp
+  TextureHandler.cpp
+d:\humber\classengine\classengine\engine\graphics\texturehandler.cpp(38): warning C4101: 'e': unreferenced local variable
+  LightSource.cpp
+  LoadOBJModel.cpp
+d:\humber\classengine\classengine\engine\math\boundingbox.h(7): warning C4099: 'BoundingBox': type name first seen using 'class' now seen using 'struct'
+  d:\humber\classengine\classengine\engine\math\boundingbox.h(6): note: see declaration of 'BoundingBox'
+d:\humber\classengine\classengine\engine\rendering\3d\loadobjmodel.cpp(38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\humber\classengine\classengine\engine\rendering\3d\loadobjmodel.cpp(42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\humber\classengine\classengine\engine\rendering\3d\loadobjmodel.cpp(46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\humber\classengine\classengine\engine\rendering\3d\loadobjmodel.cpp(51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\humber\classengine\classengine\engine\rendering\3d\loadobjmodel.cpp(55): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\humber\classengine\classengine\engine\rendering\3d\loadobjmodel.cpp(59): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\humber\classengine\classengine\engine\rendering\3d\loadobjmodel.cpp(162): warning C4018: '<': signed/unsigned mismatch
+  MouseEventListener.cpp
+d:\humber\classengine\classengine\engine\math\boundingbox.h(7): warning C4099: 'BoundingBox': type name first seen using 'class' now seen using 'struct'
+  d:\humber\classengine\classengine\engine\math\boundingbox.h(6): note: see declaration of 'BoundingBox'
+d:\humber\classengine\classengine\engine\math\collisiondetection.h(7): warning C4099: 'BoundingBox': type name first seen using 'struct' now seen using 'class'
+  d:\humber\classengine\classengine\engine\math\boundingbox.h(6): note: see declaration of 'BoundingBox'
+d:\humber\classengine\classengine\engine\math\ray.h(8): warning C4099: 'Ray': type name first seen using 'class' now seen using 'struct'
+  d:\humber\classengine\classengine\engine\math\ray.h(7): note: see declaration of 'Ray'
+d:\humber\classengine\classengine\engine\events\mouseeventlistener.cpp(96): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating Code...
+d:\humber\classengine\classengine\engine\core\timer.cpp(53): warning C4715: 'Timer::GetSleepTime': not all control paths return a value
+  Compiling...
+  SceneGraph.cpp
+d:\humber\classengine\classengine\engine\math\boundingbox.h(7): warning C4099: 'BoundingBox': type name first seen using 'class' now seen using 'struct'
+  d:\humber\classengine\classengine\engine\math\boundingbox.h(6): note: see declaration of 'BoundingBox'
+d:\humber\classengine\classengine\engine\math\collisiondetection.h(7): warning C4099: 'BoundingBox': type name first seen using 'struct' now seen using 'class'
+  d:\humber\classengine\classengine\engine\math\boundingbox.h(6): note: see declaration of 'BoundingBox'
+d:\humber\classengine\classengine\engine\math\ray.h(8): warning C4099: 'Ray': type name first seen using 'class' now seen using 'struct'
+  d:\humber\classengine\classengine\engine\math\ray.h(7): note: see declaration of 'Ray'
+  MaterialHandler.cpp
+  MaterialLoader.cpp
+  OctSpatialPartition.cpp
+d:\humber\classengine\classengine\engine\math\boundingbox.h(7): warning C4099: 'BoundingBox': type name first seen using 'class' now seen using 'struct'
+  d:\humber\classengine\classengine\engine\math\boundingbox.h(6): note: see declaration of 'BoundingBox'
+d:\humber\classengine\classengine\engine\math\collisiondetection.h(7): warning C4099: 'BoundingBox': type name first seen using 'struct' now seen using 'class'
+  d:\humber\classengine\classengine\engine\math\boundingbox.h(6): note: see declaration of 'BoundingBox'
+d:\humber\classengine\classengine\engine\math\ray.h(8): warning C4099: 'Ray': type name first seen using 'class' now seen using 'struct'
+  d:\humber\classengine\classengine\engine\math\ray.h(7): note: see declaration of 'Ray'
+  ParticleScene.cpp
+d:\humber\classengine\classengine\engine\math\boundingbox.h(7): warning C4099: 'BoundingBox': type name first seen using 'class' now seen using 'struct'
+  d:\humber\classengine\classengine\engine\math\boundingbox.h(6): note: see declaration of 'BoundingBox'
+d:\humber\classengine\classengine\engine\math\collisiondetection.h(7): warning C4099: 'BoundingBox': type name first seen using 'struct' now seen using 'class'
+  d:\humber\classengine\classengine\engine\math\boundingbox.h(6): note: see declaration of 'BoundingBox'
+d:\humber\classengine\classengine\engine\math\ray.h(8): warning C4099: 'Ray': type name first seen using 'class' now seen using 'struct'
+  d:\humber\classengine\classengine\engine\math\ray.h(7): note: see declaration of 'Ray'
+d:\humber\classengine\classengine\game\scenes\particlescene.cpp(50): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+d:\humber\classengine\classengine\game\scenes\particlescene.cpp(52): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+d:\humber\classengine\classengine\game\scenes\particlescene.cpp(53): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+  ParticleGenerator.cpp
+d:\humber\classengine\classengine\engine\math\boundingbox.h(7): warning C4099: 'BoundingBox': type name first seen using 'class' now seen using 'struct'
+  d:\humber\classengine\classengine\engine\math\boundingbox.h(6): note: see declaration of 'BoundingBox'
+d:\humber\classengine\classengine\engine\graphics\particlegenerator.cpp(29): warning C4244: '-=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\humber\classengine\classengine\engine\graphics\particlegenerator.cpp(126): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  Generating Code...
+  ClassEngine.vcxproj -> D:\HUMBER\ClassEngine\Debug\ClassEngine.exe
